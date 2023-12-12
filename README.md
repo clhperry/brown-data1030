@@ -9,3 +9,4 @@ These solutions could prove instrumental in helping governments and various stak
 
 The dataset presents a time-series regression problem for predicting future CO2 emissions in Rwanda. Emission data is provided from 2019 to 2021.
  
+The installed packages and environment is stored at rwanda_co2.yaml.
